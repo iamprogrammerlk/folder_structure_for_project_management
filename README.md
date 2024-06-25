@@ -71,6 +71,44 @@ ORGANIZATION_PROFILE_01-(organization_name)
         `- ...
 ```
 
+# User Profile Directory Structure
+
+## _Tree View_
+
+```
+USER_PROFILE_01-(user_name)
+    |- account
+    |- backup
+    |- confidential
+    |- contact
+    |- document
+    |- finance
+    |    |- bank_statement
+    |    |- bill
+    |    |- invoice
+    |    |- payment_voucher
+    |    |- payroll_sheet
+    |    |- petty_cash_voucher
+    |    `- receipt
+    |        |- bill
+    |        `- receipt
+    |- image
+    |    |- cover
+    |    |- post
+    |    `- profile
+    |- information
+    |- knowledge
+    |- legal
+    |- project
+    |- research
+    |- resource
+    |- temporary
+    |- tool
+    |    `- template
+    `- workshop
+        `- test
+```
+
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
