@@ -4,6 +4,11 @@
 
 > The template layout of the folder (Directory) and file structure for a scalable, systematic approach to managing large (Company/User/Software) projects.
 
+<br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
+
 # Root Directory Structure
 
 ## _Tree View_
@@ -69,6 +74,86 @@ ORGANIZATION_PROFILE_01-(organization_name)
     `- project
         |- PROJECT_PROFILE_01
         `- ...
+```
+
+# User Profile Directory Structure
+
+## _Tree View_
+
+```
+USER_PROFILE_01-(user_name)
+    |- account
+    |- backup
+    |- confidential
+    |- contact
+    |- document
+    |- finance
+    |    |- bank_statement
+    |    |- bill
+    |    |- invoice
+    |    |- payment_voucher
+    |    |- payroll_sheet
+    |    |- petty_cash_voucher
+    |    `- receipt
+    |        |- bill
+    |        `- receipt
+    |- image
+    |    |- cover
+    |    |- post
+    |    `- profile
+    |- information
+    |- knowledge
+    |- legal
+    |- project
+    |- research
+    |- resource
+    |- temporary
+    |- tool
+    |    `- template
+    `- workshop
+        `- test
+```
+
+# Project Profile Directory Structure
+
+## _Tree View_
+
+```
+PROJECT_PROFILE_01-(project_name)
+    |- account
+    |- backup
+    |- confidential
+    |- contact
+    |- document
+    |- finance
+    |    |- bank_statement
+    |    |- bill
+    |    |- invoice
+    |    |- payment_voucher
+    |    |- payroll_sheet
+    |    |- petty_cash_voucher
+    |    `- receipt
+    |        |- bill
+    |        `- receipt
+    |- image
+    |    |- banner
+    |    |- cover
+    |    |- icon
+    |    |- logo
+    |    |- post
+    |    `- profile
+    |- information
+    |- knowledge
+    |- legal
+    |- marketing
+    |- repository
+    |- research
+    |- resource
+    |- temporary
+    |- tool
+    |    `- template
+    `- workshop
+        `- test
 ```
 
 <br>
