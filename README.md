@@ -57,6 +57,20 @@ warehouse
         `- temporary
 ```
 
+# Organization Profile Directory Structure
+
+## _Tree View_
+
+```
+ORGANIZATION_PROFILE_01-(organization_name)
+    |- contact
+    |- human_resource
+    |- legal
+    `- project
+        |- PROJECT_PROFILE_01
+        `- ...
+```
+
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
