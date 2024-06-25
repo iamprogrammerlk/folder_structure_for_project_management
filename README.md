@@ -4,6 +4,59 @@
 
 > The template layout of the folder (Directory) and file structure for a scalable, systematic approach to managing large (Company/User/Software) projects.
 
+# Root Directory Structure
+
+## _Tree View_
+
+```
+warehouse
+    |- backup
+    |- client
+    |    |- ORGANIZATION_PROFILE_01
+    |    `- ...
+    |- graveyard
+    |    |- client
+    |    |    |- ORGANIZATION_PROFILE_01
+    |    |    `- ...
+    |    |- organization
+    |    |    |- ORGANIZATION_PROFILE_01
+    |    |    `- ...
+    |    |- project
+    |    |    |- PROJECT_PROFILE_01
+    |    |    `- ...
+    |    `- user
+    |         |- USER_PROFILE_01
+    |         `- ...
+    |- organization
+    |    |- ORGANIZATION_PROFILE_01
+    |    `- ...
+    |- other
+    |    |- USER_PROFILE_01
+    |    |- FAMILY_MEMBER_NAME_01
+    |    `- ...
+    |- playground
+    |    |- CATEGORY
+    |    |    |- PROJECT_PROFILE_01
+    |    |    `- ...
+    |    `- ...
+    |- user
+    |    |- alias
+    |    |    |- USER_PROFILE_01
+    |    |    `- ...
+    |    |- USER_PROFILE_01
+    |    `- ...
+    `- workspace
+        |- appdata
+        |- contact
+        |- document
+        |- information
+        |- knowledge
+        |- note
+        |- other
+        |- template
+        `- temporary
+```
+
 <br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
